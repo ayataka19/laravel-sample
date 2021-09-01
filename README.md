@@ -1,1 +1,1 @@
-# laravel-template
+# laravel-sample
